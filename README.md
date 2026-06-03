@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruxpins
+- 👋 Hi, I’m @cw3p
 - 👀 I’m interested in ... Edge AI + MDM
 - 🌱 I’m currently learning ... Edge AI
 - 💞️ I’m looking to collaborate on anything
